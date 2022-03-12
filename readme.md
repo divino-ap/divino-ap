@@ -10,7 +10,7 @@
 
 ---
 
-> Estou em busca de uma oportunidade de estágio ou trainner na aréa de desinvolvimento de sistemas.
+> Estou em busca de uma oportunidade de **estágio** ou **trainner** na aréa de desinvolvimento de sistemas.
 <div>
   <a href="https://www.linkedin.com/in/divino-ap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
